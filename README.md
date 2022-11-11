@@ -26,3 +26,5 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=firdavsyusupov&show_icons=true&locale=en" alt="firdavsyusupov" /></p>
 <p><img align="right" style="background-DimGray;" src="https://github-readme-stats.vercel.app/api/top-langs?username=firdavsyusupov&show_icons=true&locale=en&layout=compact" alt="firdavsyusupov" /></p>
+
+![gitartwork](gitartwork.svg)
