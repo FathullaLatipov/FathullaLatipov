@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fathulla Latipov</h1>
 <img align="center" alt="Coding" src="https://www.lambdatest.com/resources/images/news24.gif">
-<h3 align="center">I'm on my way to the Middle Developer</h3>
+<h3 align="center">I'm on my way to the Senior Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firdavsyusupov&label=Profile%20views&color=0e75b6&style=flat" alt="Fathullalatipov" /> </p>
 
 
-- 🌱 I’m currently working **Backend(Django)**
+- 🌱 I’m currently working **Backend(Django, FastAPI, RestAPI, Flask ...)**
 
 - 📫 How to reach me **fathullaxonlatipov@gmail.com**
 
